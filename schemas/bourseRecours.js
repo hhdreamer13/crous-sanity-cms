@@ -1,7 +1,7 @@
 export default {
-  name: 'bourse',
+  name: 'bourse-recours',
   type: 'document',
-  title: 'Bourse (Général)',
+  title: 'Bourse (Recours)',
   fields: [
     {
       name: 'title',
