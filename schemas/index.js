@@ -9,6 +9,7 @@ import bourseRecours from './bourseRecours'
 import bourseRessource from './bourseRessource'
 import bourseRévision from './bourseRévision'
 import menu from './menu'
+import subMenu from './subMenu'
 
 export const schemaTypes = [
   bourse,
@@ -22,4 +23,5 @@ export const schemaTypes = [
   cvec,
   autre,
   menu,
+  subMenu,
 ]
