@@ -8,6 +8,11 @@ import bourseNationalité from './bourseNationalité'
 import bourseRecours from './bourseRecours'
 import bourseRessource from './bourseRessource'
 import bourseRévision from './bourseRévision'
+import bourseMenu from './bourseMenu'
+import logementMenu from './logementMenu'
+import socialMenu from './socialMenu'
+import cvecMenu from './cvecMenu'
+import autreMenu from './autreMenu'
 
 export const schemaTypes = [
   bourse,
@@ -20,4 +25,9 @@ export const schemaTypes = [
   social,
   cvec,
   autre,
+  bourseMenu,
+  logementMenu,
+  socialMenu,
+  cvecMenu,
+  autreMenu,
 ]
