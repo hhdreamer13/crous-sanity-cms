@@ -1,5 +1,5 @@
 export default {
-  name: 'bourse-nationalité',
+  name: 'bourse-nationalite',
   type: 'document',
   title: 'Bourse (Nationalité)',
   fields: [

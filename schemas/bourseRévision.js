@@ -1,5 +1,5 @@
 export default {
-  name: 'bourse-révision',
+  name: 'bourse-revision',
   type: 'document',
   title: 'Bourse (Révision)',
   fields: [

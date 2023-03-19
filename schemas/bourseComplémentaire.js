@@ -1,5 +1,5 @@
 export default {
-  name: 'bourse-complémentaire',
+  name: 'bourse-complementaire',
   type: 'document',
   title: 'Bourse (Complémentaire)',
   fields: [
