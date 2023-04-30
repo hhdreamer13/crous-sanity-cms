@@ -10,6 +10,7 @@ import bourseRessource from './bourseRessource'
 import bourseRévision from './bourseRévision'
 import menu from './menu'
 import subMenu from './subMenu'
+import fileAsset from './fileAsset'
 
 export const schemaTypes = [
   bourse,
@@ -24,4 +25,5 @@ export const schemaTypes = [
   autre,
   menu,
   subMenu,
+  fileAsset,
 ]
